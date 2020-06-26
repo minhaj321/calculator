@@ -1,0 +1,53 @@
+body{background: radial-gradient(indigo,pink,indigo);
+	height: 62.5vw;
+background-repeat: no-repeat;}
+#main{
+	
+	width: 40vw;
+	margin:auto;
+	margin-top: 70px;
+	border: 5px dotted indigo;
+
+}
+h1{margin-left:36vw; line-height: 0px;
+}
+
+.num{ width: 100%;  margin-left: 2px;}
+#dot{padding-left: 20px;}
+.num div{
+	color :indigo	;
+	background: linear-gradient(violet,pink)	;
+	width: 23%;
+	height: 40px;
+	border: 2px solid purple;
+	display: inline-block;
+}
+.num div b{ font-size: 25px;  padding-left: 2px;}
+#result{
+	font-size: 30px;
+	color: white;
+	width: 97%;
+	margin-left: 4px;
+	height: 50px;
+	background: black;
+	border: 1px solid purple;
+}
+#history{
+	font-size: 30px;
+	color:grey;
+	width: 97%;
+	margin-left: 4px;
+	height: 50px;
+	background: black;
+	border: 1px solid purple;
+}
+span{float: right;}
+.c{width: 97%; color :indigo	;
+	background: linear-gradient(violet,pink)	;
+	margin-left: 3px;
+	height: 40px;
+	border: 2px solid purple;
+	padding: auto;
+
+}
+.c b{ font-size: 40px;  margin-left: 3px;}
